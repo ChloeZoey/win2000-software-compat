@@ -1,0 +1,1 @@
+# win2000-software-compat
