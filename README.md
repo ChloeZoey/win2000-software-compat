@@ -6,31 +6,39 @@ Currently a work in progress. Contributions are welcome!
 
 No AI was used in the making of this list.
 
+</br>
+
 # Programs
-
-<details>
+</br>
+<details open>
 <summary>Windows 2000 Specific</summary>
+</br>
 
-| Program                                    | Description                                    | Works on Win2000 SP4 | Last Tested Working Version | Last Officially Supported Version   | Version Stopped Working             | Notes | Free? |                                    Open Source?                                     |
-| ------------------------------------------ | ---------------------------------------------- | :------------------: | --------------------------- | ----------------------------------- | ----------------------------------- | ----- | :---: | :---------------------------------------------------------------------------------: |
-| [Legacy Update](https://legacyupdate.net/) | Get back online, activate, and install updates |          ✅           | Current Version             | N/A, current version supports Win2K | N/A, current version supports Win2K |       |   ✅   | [✅ - Apache-2.0](https://github.com/LegacyUpdate/LegacyUpdate/blob/main/LICENSE.md) |
+| Program                                                                                                                              | Description                                    | Works on Win2000 SP4 | Last Tested Working Version | Last Officially Supported Version   | Version Stopped Working             | Notes | Free? |                                    Open Source?                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | :------------------: | --------------------------- | ----------------------------------- | ----------------------------------- | ----- | :---: | :---------------------------------------------------------------------------------: |
+| [Legacy Update](https://legacyupdate.net/)                                                                                           | Get back online, activate, and install updates |          ✅           | Current Version             | N/A, current version supports Win2K | N/A, current version supports Win2K |       |   ✅   | [✅ - Apache-2.0](https://github.com/LegacyUpdate/LegacyUpdate/blob/main/LICENSE.md) |
+| [Microsoft Windows 2000 Unofficial SP 5.1.2195 ](https://www.majorgeeks.com/files/details/microsoft_windows_2000_unofficial_sp.html) |                                                |          ✅           |                             |                                     |                                     |       |   ✅   |                                          ❌                                          |
 
+</br>
 </details>
 
-<details>
+<details open>
 <summary>Dependencies</summary>
+</br>
 
 | Program                                                                                                           | Description | Works on Win2000 SP4 | Last Tested Working Version | Last Officially Supported Version | Version Stopped Working | Notes | Free? | Open Source? |
 | ----------------------------------------------------------------------------------------------------------------- | ----------- | :------------------: | --------------------------- | --------------------------------- | ----------------------- | ----- | :---: | :----------: |
-| [DirectX 9](https://archive.org/details/microsoft-direct-x-9.0c-redistributable-for-windows-95-98-me-2000-and-xp) |             |                      |                             |                                   |                         |       |       |              |
-| [Media Encoder 9](https://archive.org/details/WindowsMediaEncoder9Series_2003)                                    |             |                      |                             |                                   |                         |       |       |              |
-| [GDI+](https://web.archive.org/web/20170906231543/http://www.microsoft.com/en-us/download/details.aspx?id=18909)  |             |                      |                             |                                   |                         |       |       |              |
-| .NET Framework 2.0                                                                                                |             |                      |                             |                                   |                         |       |       |              |
+| [DirectX 9](https://archive.org/details/microsoft-direct-x-9.0c-redistributable-for-windows-95-98-me-2000-and-xp) |             |          ✅           |                             |                                   |                         |       |   ✅   |      ❌       |
+| [Media Encoder 9](https://archive.org/details/WindowsMediaEncoder9Series_2003)                                    |             |          ✅           |                             |                                   |                         |       |   ✅   |      ❌       |
+| [GDI+](https://web.archive.org/web/20170906231543/http://www.microsoft.com/en-us/download/details.aspx?id=18909)  |             |          ✅           |                             |                                   |                         |       |   ✅   |      ❌       |
+| .NET Framework 2.0                                                                                                |             |          ✅           |                             |                                   |                         |       |   ✅   |      ❌       |
 
+</br>
 </details>
 
-<details>
+<details open>
 <summary>Security</summary>
+</br>
 
 | Program                                        | Description      | Works on Win2000 SP4 | Last Tested Working Version                                                                                                                                                                                                                           | Last Officially Supported Version                                                                                                                                                                           | Version Stopped Working                                                    | Notes                    | Free? |                      Open Source?                      |
 | ---------------------------------------------- | ---------------- | :------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------ | :---: | :----------------------------------------------------: |
@@ -38,19 +46,23 @@ No AI was used in the making of this list.
 | [KeePass 2.x](https://keepass.info/index.html) | Password manager |          ✅           | [v2.58 (.zip portable)](https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.58/KeePass-2.58.zip/download)<br/><br/>[v2.46 (.exe setup)](https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.46/KeePass-2.46-Setup.exe/download) | [v2.36](https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.36/KeePass-2.36-Setup.exe/download)<br/><br/>[Source](https://web.archive.org/web/20170907191227/https://keepass.info/download.html) | v2.59 (portable)<br/><br/>v2.47 (.exe setup)                               | Needs .NET Framework 2.0 |   ✅   | [✅ - GPLv2](https://keepass.info/help/v2/license.html) |
 |                                                |                  |                      |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                             |                                                                            |                          |       |                                                        |
 
+</br>
 </details>
 
-<details>
+<details open>
 <summary>Web Browsers</summary>
+</br>
 
 | Program                                                                                 | Description                                                   | Works on Win2000 SP4 | Last Tested Working Version         | Last Officially Supported Version   | Version Stopped Working             | Notes | Free? | Open Source? |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- | :------------------: | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----- | :---: | :----------: |
 | [Supermium for Windows 2000](https://github.com/Somehowfreename/windows-2000-supermium) | Unofficial build of Supermium designed to run on Windows 2000 |          ✅           | N/A, current version supports Win2K | N/A, current version supports Win2K | N/A, current version supports Win2K |       |       |              |
 
+</br>
 </details>
 
-<details>
+<details open>
 <summary>File Utilities</summary>
+</br>
 
 | Program                               | Description         | Works on Win2000 SP4 | Last Tested Working Version                                                       | Last Officially Supported Version                                                 | Version Stopped Working             | Notes | Free? |                                 Open Source?                                 |
 | ------------------------------------- | ------------------- | :------------------: | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- | ----- | :---: | :--------------------------------------------------------------------------: |
@@ -58,12 +70,14 @@ No AI was used in the making of this list.
 | [7-Zip](https://7-zip.org/)           | File archiver       |          ✅           | [26.03](https://github.com/ip7z/7zip/releases/download/26.03/7z2603.exe)          | [26.03](https://github.com/ip7z/7zip/releases/download/26.03/7z2603.exe)          | N/A, current version supports Win2K |       |   ✅   |                  [✅ - LGPL](https://7-zip.org/license.txt)                   |
 | MyDefrag                              |                     |                      |                                                                                   |                                                                                   |                                     |       |       |                                                                              |
 
+</br>
 </details>
 
 
 
-<details>
+<details open>
 <summary>Documents</summary>
+</br>
 
 
 | Program                                                        | Description                  | Works on Win2000 SP4 | Last Tested Working Version                                                                                                                                             | Last Officially Supported Version                                                                                                                                                                                                   | Version Stopped Working | Notes | Free? | Open Source? |
@@ -73,35 +87,37 @@ No AI was used in the making of this list.
 | [LibreOffice](https://www.libreoffice.org/)                    | Open source office suite     |          ✅           | [3.6.7.2]([install](https://downloadarchive.documentfoundation.org/libreoffice/old/3.6.7.2/win/x86/LibO_3.6.7.2_Win_x86_install_multi.msi.asc)) (needs further testing) | [3.6.7.2]([install](https://downloadarchive.documentfoundation.org/libreoffice/old/3.6.7.2/win/x86/LibO_3.6.7.2_Win_x86_install_multi.msi.asc))<br/>[Source](https://wiki.documentfoundation.org/Documentation/System_Requirements) |                         |       |   ✅   |      ✅       |
 | Notepad++                                                      |                              |          ✅           |                                                                                                                                                                         |                                                                                                                                                                                                                                     |                         |       |   ✅   |      ✅       |
 | Microsoft Office 2000                                          |                              |                      |                                                                                                                                                                         |                                                                                                                                                                                                                                     |                         |       |   ❌   |      ❌       |
+| [Nano for Legacy Windows](https://github.com/Alex313031/nano)  |                              |          ✅           |                                                                                                                                                                         |                                                                                                                                                                                                                                     |                         |       |   ✅   |      ✅       |
+
 
 </br>
 </details>
 
 
-<details>
+<details open>
 <summary>Media</summary>
 
 | Program                | Description | Works on Win2000 SP4 | Last Tested Working Version | Last Officially Supported Version | Version Stopped Working | Notes | Free? | Open Source? |
 | ---------------------- | ----------- | :------------------: | --------------------------- | --------------------------------- | ----------------------- | ----- | :---: | :----------: |
 | VLC Media Player       |             |          ✅           |                             |                                   |                         |       |       |              |
-| Winamp                 |             |          ✅           |                             |                                   |                         |       |       |              |
-| Windows Media Player 9 |             |          ✅           |                             |                                   |                         |       |       |              |
+| Winamp                 |             |          ✅           |                             |                                   |                         |       |       |      ❌       |
+| Windows Media Player 9 |             |          ✅           |                             |                                   |                         |       |       |      ❌       |
 
 </br>
 </details>
 
-<details>
+<details open>
 <summary>Benchmarking</summary>
 
 | Program                                                 | Description                                                                                | Works on Win2000 SP4 | Last Tested Working Version                               | Last Officially Supported Version | Version Stopped Working | Notes                                                                           | Free? | Open Source? |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ | :------------------: | --------------------------------------------------------- | --------------------------------- | ----------------------- | ------------------------------------------------------------------------------- | :---: | :----------: |
 | CPU-Z                                                   |                                                                                            |                      |                                                           |                                   |                         |                                                                                 |       |              |
-| [PCMark04](https://benchmarks.ul.com/legacy-benchmarks) | PC performance benchmarking with system and component level tests for Windows 2000 and XP. |          ✅           | [1.3.0](https://benchmarks.ul.com/downloads/pcmark04.exe) | N/A                               | N/A                     | **Needed for PCMark04:**<br/>Media Encoder 9 <br/>DirectX 9 <br/>Media Player 9 |       |              |
+| [PCMark04](https://benchmarks.ul.com/legacy-benchmarks) | PC performance benchmarking with system and component level tests for Windows 2000 and XP. |          ✅           | [1.3.0](https://benchmarks.ul.com/downloads/pcmark04.exe) | N/A                               | N/A                     | **Needed for PCMark04:**<br/>Media Encoder 9 <br/>DirectX 9 <br/>Media Player 9 |       |      ❌       |
 
 </br>
 </details>
 
-<details>
+<details open>
 <summary>Games</summary>
 
 | Program                                                           | Description                        | Works on Win2000 SP4 | Last Tested Working Version                                                        | Last Officially Supported Version | Version Stopped Working | Notes | Free? |                                    Open Source?                                    |
@@ -116,12 +132,15 @@ No AI was used in the making of this list.
 
 </br>
 </br>
-</br>
+
 
 # Additional Resources
 
 <details>
 <summary>Similar lists to refer to as well</summary>
+</br>
+
+https://msfn.org/board/topic/133014-last-versions-of-software-for-windows-2000/
 
 https://retrosystemsrevival.blogspot.com/p/latest-versions-of-software-working-on.html
 
@@ -131,10 +150,28 @@ https://archive.org/details/win-2k-apps-ba
 
 https://www.vogons.org/viewtopic.php?t=71920
 
+https://w2k.phreaknet.org/guide/
+
+https://w2k.phreaknet.org/res/
+
+</br>
+</details>
+
+<details>
+<summary>Windows 2000 Downloads</summary>
+</br>
+
+https://winworldpc.com/product/windows-nt-2000/final
+
+[WinWorld Direct Link to Win2000 SP4 Retail](https://winworldpc.com/download/413ce280-9436-18c3-9a11-c3a4e284a2ef)
+
+
+</br>
 </details>
 
 <details>
 <summary>Linux distros to consider for a Win2K era PC</summary>
+</br>
 
 If the aim is to use a Windows 2000 era PC in current day, please consider the following Linux distros. They are going to be much better for security and compatibility with modern software.
 
@@ -160,7 +197,7 @@ All of these distros still support 32-bit x86.
 
 **Not Linux based, but worth mentioning:**
 
-Haiku OS
+[Haiku OS](https://www.haiku-os.org/)
 
 FreeDOS
 
